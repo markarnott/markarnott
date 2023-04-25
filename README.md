@@ -3,8 +3,9 @@
 - :heart: I love to write code.
 - :briefcase: I work as a Cloud Solutions Architect at [AIS](https://www.ais.com).
 - :rocket: I work on Microsoft Azure :cloud:
+- :tent: I organized Raleigh Code Camp from 2012 - 2019.  Help me bring it back from the pandemic!
 - :seedling: I am learning rust. 
-- 💬  Find me on [LinkeIn](https://www.linkedin.com/in/mark-arnott-6564a32/)
+- 💬  Find me on [LinkedIn](https://www.linkedin.com/in/mark-arnott-6564a32/)
 
 <!--
 **markarnott/markarnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
